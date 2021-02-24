@@ -1,0 +1,44 @@
+html, body {
+  background-image: url(https://drive.google.com/uc?id=1FD_gpzCgySu3uvwnu0COmEzQTvyaBw8P);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #aac5f2;
+  text-align: center;
+  font-family: "Open Sans";
+  min-width: 320px;
+  background-size: cover;
+
+}
+
+h1 {
+  margin: 0.2rem auto;
+}
+
+.form-outer {
+  background: rgba(255, 255, 255, 0.8);
+  margin: 0 auto;
+  width: 75%;
+  max-width: 800px;
+  
+  padding: 10px;
+  padding-top:20px
+}
+
+.form-group {
+  margin: 0 auto 1rem auto;
+    padding:
+}
+
+.form-control {
+  
+  width: 60%;
+  padding: 0.220rem 0.75rem;
+  text-align: center;
+  font-family: "Open Sans";
+  text-align-last: center;
+}
+
+.textbox {
+  height: 5rem;
+  
+}
